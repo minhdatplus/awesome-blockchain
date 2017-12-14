@@ -1,7 +1,15 @@
 # Awesome-Blockchain
 Blockchain and etc...
+### Contributing
+Thank to Group Blockchain Ha Noi and Group VietNam Blockchain Developer help me collecting resources below.
+### Contents
+- [Cryptocurrencies](#cryptocurrencies)
+  - [Ever Wonder How Bitcoin (And Other Cryptocurrencies) Actually Work?](#ever-wonder-how-bitcoin-(and-other-cryptocurrencies)-actually-work?)
+- [Blockchain Tutorials](#blockchain-tutorials)
+  - [How To Build Your Own Blockchain](#how-to-build-your-own-blockchain)
+  
 ## Cryptocurrencies
-* [Ever wonder how Bitcoin (and other cryptocurrencies) actually work?](https://youtu.be/bBC-nXj3Ng4) - How to cryptocurencies work?
+* [Ever Wonder How Bitcoin (And Other Cryptocurrencies) Actually Work?](https://youtu.be/bBC-nXj3Ng4) - How to cryptocurencies work?
 ## Blockchain Tutorials
 * [Python] [How To Build Your Own Blockchain](#)
      * [Part 1](https://bigishdata.com/2017/10/17/write-your-own-blockchain-part-1-creating-storing-syncing-displaying-mining-and-proving-work/) - Creating, Storing, Syncing, Displaying, Mining And Proving Work
