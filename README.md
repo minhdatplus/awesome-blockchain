@@ -2,25 +2,17 @@
 Blockchain and etc...
 ### Contributing
 Thank to Group Blockchain Ha Noi and Group VietNam Blockchain Developer help me collecting resources below.
-### Contents
-- [Cryptocurrencies](#cryptocurrencies)
-  - [Ever Wonder How Bitcoin (And Other Cryptocurrencies) Actually Work?](#ever-wonder-how-bitcoin-(and-other-cryptocurrencies)-actually-work?)
-- [Blockchain Tutorials](#blockchain-tutorials)
-  - [How To Build Your Own Blockchain](#how-to-build-your-own-blockchain)
-  
 ## Cryptocurrencies
-* [Ever Wonder How Bitcoin (And Other Cryptocurrencies) Actually Work?](https://youtu.be/bBC-nXj3Ng4) - How to cryptocurencies work?
+* [Ever wonder how Bitcoin (and other cryptocurrencies) actually work?](https://youtu.be/bBC-nXj3Ng4) - How to cryptocurencies work?
 ## Blockchain Tutorials
-* ### How To Build Your Own Blockchain **[Python]**
+* [Python] [How To Build Your Own Blockchain](#)
      * [Part 1](https://bigishdata.com/2017/10/17/write-your-own-blockchain-part-1-creating-storing-syncing-displaying-mining-and-proving-work/) - Creating, Storing, Syncing, Displaying, Mining And Proving Work
      * [Part 2](https://bigishdata.com/2017/10/27/build-your-own-blockchain-part-2-syncing-chains-from-different-nodes/) - Syncing Chains From Different Nodes
      * [Part 3](https://bigishdata.com/2017/11/02/build-your-own-blockchain-part-3-writing-nodes-that-mine/) - Writing Nodes That Mine
      * [Part 4.1](https://bigishdata.com/2017/11/13/how-to-build-a-blockchain-part-4-1-bitcoin-proof-of-work-difficulty-explained/) - Bitcoin Proof Of Work Difficulty Explained
      * [Part 4.2](https://bigishdata.com/2017/11/21/how-to-build-your-own-blockchain-part-4-2-ethereum-proof-of-work-difficulty-explained/) - Ethereum Proof Of Work Difficulty Explained
-* ### How To Build PoW Blockchain With 1500 Lines Of Code **[NodeJS]**
-    * [Hackernoon](https://hackernoon.com/a-cryptocurrency-implementation-in-less-than-1500-lines-of-code-d3812bedb25c) - **Conrado Quilles Gomes**
-* ### How To Blockchain In 200 Lines Of Code (Without Consensus)] **[NodeJS]**
-    * [Medium](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54) - **Lauri Hartikka**
+* [NodeJS] [How To Build PoW Blockchain With 1500 Lines Of Code](https://hackernoon.com/a-cryptocurrency-implementation-in-less-than-1500-lines-of-code-d3812bedb25c)
+* [NodeJS] [How To Blockchain In 200 Lines Of Code (Without Consensus)](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54)
 ## Blockchain Courses
 * [FREE] [Blockchain for Business](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS171x+3T2017/course/) - An Introduction to Hyperledger Technologies
 * [FREE] [IBM Blockchain Foundation for Developers](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers)
@@ -52,6 +44,8 @@ Thank to Group Blockchain Ha Noi and Group VietNam Blockchain Developer help me 
 ## Websites
 * [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) - The fastest way to learn how Blockchains work is to build one
 * [Truffer Boxes](http://truffleframework.com/boxes/) - Solidity contracts & libraries, front-end views and more; all the way up to complete example dapps.
+
+
 
 
 
